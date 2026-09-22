@@ -1,7 +1,7 @@
 ![logo](https://pbs.twimg.com/profile_banners/1349152989374599169/1784825112/1500x500)
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&pause=1000&color=80EF80&center=true&random=false&width=700&lines=LLM+Research+%26+Engineering;Post-training+%26+Alignment;Inference+Engines+%26+GPU+Kernel;Distributed+ML+%26+Infrastructure;Agentic+AI+Engineering;Category+Theory+%C2%B7+Predictive+Coding;First+Principles+%C2%B7+Game+Theory;Bayesian+Inference" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=25&pause=100&color=80EF80&center=true&random=false&width=750&lines=LLM+Research+%26+Engineering;Post-training+%26+Alignment;Inference+Engines+%26+GPU+Kernel;Distributed+ML+%26+Infrastructure;Agentic+AI+Engineering;Category+Theory+%C2%B7+Information+Theory;Thermodynamics+%26+Complexity+Theory;Bayesian+Inference+%C2%B7+Free+Energy+Principle+%C2%B7+Predictive+Coding" alt="Typing SVG" />
 </a></p>
 <hr>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/c5/28/40/c528406ae0e57d4d79ca721850764453.gif">

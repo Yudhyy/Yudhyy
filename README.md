@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/McCodey_" target="blank"><img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebe1d31f50e161e4c825a_X-logo-transparent-white-twitter.png" alt="McCodey" height="30" width="30" /></a>
+<a href="https://x.com/McCodey_" target="blank"><img align="center" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg" alt="McCodey" height="38" width="40" /></a>
 <a href="https://www.linkedin.com/in/yudhy-prayitno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yudhy mccodey" height="30" width="40" /></a>
 <a href="https://instagram.com/yudhyprayitno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yudhyprayitno" height="30" width="40" /></a>
 </p>

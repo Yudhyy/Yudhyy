@@ -6,7 +6,7 @@
 <hr>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/c5/28/40/c528406ae0e57d4d79ca721850764453.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=laoode&label=Profile%20views&color=0e75b6&style=flat" alt="laoode" /> </p> -->
 <p align ="left">Fine-tuning small language models (SLMs), engineering agentic systems, and optimizing LLM inference.</p>
 
 <h3 align="left">Connect with me:</h3>
